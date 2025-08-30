@@ -2,6 +2,8 @@
 
 A list of code and resources for anything seed-worldgen related.
 
+Issues and pull requests are welcome, if you feel like something should be documented here feel free to reach out.
+
 > [!CAUTION]
 > Not all of the tools have a GUI, if you don't know how to use the tools, don't say they don't work.
 > You can ask for assistance in following discord servers: [19MisterX](https://discord.gg/ANW8hu2S5D) [flexcoral](https://discord.gg/DFsMKWJJPN)
