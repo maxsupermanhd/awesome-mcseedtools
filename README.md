@@ -38,9 +38,10 @@ Tools to locate valuables in specific area based on the world seed.
 
 Tools to obtain a seed for generatable things.
 
-| form        | uses                                      | dims | versions | link                                                                            |
-| ----------- | ----------------------------------------- | ---- | -------- | ------------------------------------------------------------------------------- |
-| mod: fabric | biomes, structures, features, hashed seed | all  | all      | [SeedcrackerX](https://github.com/19MisterX98/SeedcrackerX)                     |
-| gui app     | bedrock                                   | n    | 1.18+    | [Nether_Bedrock_Cracker](https://github.com/19MisterX98/Nether_Bedrock_Cracker) |
-| discord bot | structures, biomes                        | o    | all      | [19MisterX](https://discord.gg/ANW8hu2S5D)                                      |
-| code: java  | structures, features                      | all  | all      | [19MisterX](https://github.com/hube12/lifting)                                  |
+| form            | uses                                      | dims | versions | link                                                                            |
+| --------------- | ----------------------------------------- | ---- | -------- | ------------------------------------------------------------------------------- |
+| mod: fabric     | biomes, structures, features, hashed seed | all  | all      | [SeedcrackerX](https://github.com/19MisterX98/SeedcrackerX)                     |
+| gui app         | bedrock                                   | n    | 1.18+    | [Nether_Bedrock_Cracker](https://github.com/19MisterX98/Nether_Bedrock_Cracker) |
+| discord bot     | structures, biomes                        | o    | all      | [19MisterX](https://discord.gg/ANW8hu2S5D)                                      |
+| code: java      | structures, features                      | all  | all      | [lifting](https://github.com/hube12/lifting)                                    |
+| library: golang | structures, features                      | all  | all      | [go-lifting](https://github.com/maxsupermanhd/go-lifting)                       |
