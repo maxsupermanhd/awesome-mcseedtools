@@ -12,10 +12,11 @@ Tools to locate a pattern of blocks or other information in the world knowing on
 
 Usually used to locate stashes/bases from screenshots.
 
-| form | uses              | dims | ver    | seed <!-- ✅❌ --> | link                                                                     |
-| ---- | ----------------- | ---- | ------ | ---------------- | ------------------------------------------------------------------------ |
-| code | bedrock           | o/n  | 1.18+? | ?                | [bedrock-finder-118](https://github.com/silversquirl/bedrock-finder-118) |
-| code | texture rotations | all  | all    | ❌                | [TextureRotations](https://github.com/19MisterX98/TextureRotations)      |
+| form | uses              | dims | ver    | needs seed | link                                                                     |
+| ---- | ----------------- | ---- | ------ | ---------- | ------------------------------------------------------------------------ |
+| code | bedrock           | o/n  | 1.18+? | ?          | [bedrock-finder-118](https://github.com/silversquirl/bedrock-finder-118) |
+| code | texture rotations | all  | all    | no         | [TextureRotations](https://github.com/19MisterX98/TextureRotations)      |
+| code | texture rotations | all  | ?      | no         | [TextureFinderJava](https://github.com/coolmann24)                       |
 
 Tools to locate valuables in specific area based on the world seed.
 
@@ -29,3 +30,9 @@ Tools to locate valuables in specific area based on the world seed.
 ## Seed crackers
 
 Tools to obtain a seed for generatable things.
+
+| form        | uses                                      | dims | versions | link                                                                            |
+| ----------- | ----------------------------------------- | ---- | -------- | ------------------------------------------------------------------------------- |
+| fabric mod  | biomes, structures, features, hashed seed | all  | all      | [SeedcrackerX](https://github.com/19MisterX98/SeedcrackerX)                     |
+| gui app     | bedrock                                   | n    | 1.18+    | [Nether_Bedrock_Cracker](https://github.com/19MisterX98/Nether_Bedrock_Cracker) |
+| discord bot | structures, biomes                        | o    | all      | [19MisterX](https://discord.gg/ANW8hu2S5D)                                      |
