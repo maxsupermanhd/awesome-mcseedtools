@@ -29,7 +29,8 @@ Tools to locate valuables in specific area based on the world seed.
 | form        | locates                                     | dims | versions | link                                                           |
 | ----------- | ------------------------------------------- | ---- | -------- | -------------------------------------------------------------- |
 | mod: fabric | biomes, structures, loot, ores, slimechunks | all  | all      | [SeedMapper](https://github.com/xpple/SeedMapper)              |
-| gui app     | biomes, structures, loot, ores, slimechunks | all  | all      | [cubiomes-viewer](https://github.com/Cubitect/cubiomes-viewer) |
+| gui app     | biomes, structures, slimechunks             | all  | all      | [cubiomes-viewer](https://github.com/Cubitect/cubiomes-viewer) |
+| website     | biomes, structures, slimechunks             | all  | all      | [chunkbase.com](https://www.chunkbase.com/apps/seed-map)       |
 | website     | ores                                        | all  | all      | [orefinder.gg](https://www.orefinder.gg/)                      |
 | library: c  | biomes, structures, loot, ores, slimechunks | all  | all      | [cubiomes](https://github.com/xpple/cubiomes)                  |
 
