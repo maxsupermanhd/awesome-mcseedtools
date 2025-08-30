@@ -12,15 +12,15 @@ Tools to locate a pattern of blocks or other information in the world knowing on
 
 Usually used to locate stashes/bases from screenshots.
 
-| form       | uses              | dims | ver    | link                                                                                         |
-| ---------- | ----------------- | ---- | ------ | -------------------------------------------------------------------------------------------- |
-| code: rust | texture rotations | all  | all    | [TextureRotations](https://github.com/19MisterX98/TextureRotations)                          |
-| code: java | texture rotations | all  | ?      | [TextureFinderJava](https://github.com/coolmann24/TextureFinderJava)                         |
-| code: zig  | bedrock           | o/n  | 1.18+? | [bedrock-finder-118](https://github.com/silversquirl/bedrock-finder-118)                     |
-| code: rust | bedrock           | n?   | 1.18+? | [BedrockFinder](https://github.com/JorianWoltjer/BedrockFinder)                              |
-| code: rust | bedrock           | ?    | ?      | [bedrock-finder](https://github.com/TudbuT/bedrock-finder)                                   |
-| code: java | bedrock           | n?   | 1.18+  | [minecraft-bedrock-generator](https://github.com/Developer-Mike/minecraft-bedrock-generator) |
-| gui app    | bedrock           | o    | ?      | [BedrockFinderCpp](https://github.com/coolmann24/BedrockFinderCpp)                           |
+| form       | uses              | dims | ver          | link                                                                                         |
+| ---------- | ----------------- | ---- | ------------ | -------------------------------------------------------------------------------------------- |
+| code: rust | texture rotations | all  | all          | [TextureRotations](https://github.com/19MisterX98/TextureRotations)                          |
+| code: java | texture rotations | all  | ?            | [TextureFinderJava](https://github.com/coolmann24/TextureFinderJava)                         |
+| code: zig  | bedrock           | o/n  | 1.18+?       | [bedrock-finder-118](https://github.com/silversquirl/bedrock-finder-118)                     |
+| code: rust | bedrock           | n?   | 1.18+?       | [BedrockFinder](https://github.com/JorianWoltjer/BedrockFinder)                              |
+| code: rust | bedrock           | ?    | ?            | [bedrock-finder](https://github.com/TudbuT/bedrock-finder)                                   |
+| code: java | bedrock           | n?   | 1.18+        | [minecraft-bedrock-generator](https://github.com/Developer-Mike/minecraft-bedrock-generator) |
+| gui app    | bedrock           | o/n  | 1.12-1.15 +? | [BedrockFinderCpp](https://github.com/coolmann24/BedrockFinderCpp)                           |
 
 Tools to locate valuables in specific area based on the world seed.
 
