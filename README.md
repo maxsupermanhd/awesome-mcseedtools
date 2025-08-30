@@ -12,20 +12,23 @@ Tools to locate a pattern of blocks or other information in the world knowing on
 
 Usually used to locate stashes/bases from screenshots.
 
-| form | uses              | dims | ver    | needs seed | link                                                                     |
-| ---- | ----------------- | ---- | ------ | ---------- | ------------------------------------------------------------------------ |
-| code | bedrock           | o/n  | 1.18+? | ?          | [bedrock-finder-118](https://github.com/silversquirl/bedrock-finder-118) |
-| code | texture rotations | all  | all    | no         | [TextureRotations](https://github.com/19MisterX98/TextureRotations)      |
-| code | texture rotations | all  | ?      | no         | [TextureFinderJava](https://github.com/coolmann24)                       |
+| form       | uses              | dims | ver    | needs seed | link                                                                                         |
+| ---------- | ----------------- | ---- | ------ | ---------- | -------------------------------------------------------------------------------------------- |
+| code: zig  | bedrock           | o/n  | 1.18+? | ?          | [bedrock-finder-118](https://github.com/silversquirl/bedrock-finder-118)                     |
+| code: rust | texture rotations | all  | all    | no         | [TextureRotations](https://github.com/19MisterX98/TextureRotations)                          |
+| code: java | texture rotations | all  | ?      | no         | [TextureFinderJava](https://github.com/coolmann24/TextureFinderJava)                         |
+| code: rust | bedrock           | n?   | 1.18+? | no         | [BedrockFinder](https://github.com/JorianWoltjer/BedrockFinder)                              |
+| code: java | bedrock           | n?   | 1.18+  | no         | [minecraft-bedrock-generator](https://github.com/Developer-Mike/minecraft-bedrock-generator) |
+| gui app    | bedrock           | o    | ?      | no         | [BedrockFinderCpp](https://github.com/coolmann24/BedrockFinderCpp)                           |
 
 Tools to locate valuables in specific area based on the world seed.
 
-| form       | locates                                     | dims | versions | link                                                           |
-| ---------- | ------------------------------------------- | ---- | -------- | -------------------------------------------------------------- |
-| fabric mod | biomes, structures, loot, ores, slimechunks | all  | all      | [SeedMapper](https://github.com/xpple/SeedMapper)              |
-| c library  | biomes, structures, loot, ores, slimechunks | all  | all      | [cubiomes](https://github.com/xpple/cubiomes)                  |
-| gui app    | biomes, structures, loot, ores, slimechunks | all  | all      | [cubiomes-viewer](https://github.com/Cubitect/cubiomes-viewer) |
-| website    | ores                                        | all  | all      | [orefinder.gg](https://www.orefinder.gg/)                      |
+| form        | locates                                     | dims | versions | link                                                           |
+| ----------- | ------------------------------------------- | ---- | -------- | -------------------------------------------------------------- |
+| mod: fabric | biomes, structures, loot, ores, slimechunks | all  | all      | [SeedMapper](https://github.com/xpple/SeedMapper)              |
+| gui app     | biomes, structures, loot, ores, slimechunks | all  | all      | [cubiomes-viewer](https://github.com/Cubitect/cubiomes-viewer) |
+| website     | ores                                        | all  | all      | [orefinder.gg](https://www.orefinder.gg/)                      |
+| library: c  | biomes, structures, loot, ores, slimechunks | all  | all      | [cubiomes](https://github.com/xpple/cubiomes)                  |
 
 ## Seed crackers
 
@@ -33,6 +36,7 @@ Tools to obtain a seed for generatable things.
 
 | form        | uses                                      | dims | versions | link                                                                            |
 | ----------- | ----------------------------------------- | ---- | -------- | ------------------------------------------------------------------------------- |
-| fabric mod  | biomes, structures, features, hashed seed | all  | all      | [SeedcrackerX](https://github.com/19MisterX98/SeedcrackerX)                     |
+| mod: fabric | biomes, structures, features, hashed seed | all  | all      | [SeedcrackerX](https://github.com/19MisterX98/SeedcrackerX)                     |
 | gui app     | bedrock                                   | n    | 1.18+    | [Nether_Bedrock_Cracker](https://github.com/19MisterX98/Nether_Bedrock_Cracker) |
 | discord bot | structures, biomes                        | o    | all      | [19MisterX](https://discord.gg/ANW8hu2S5D)                                      |
+| code: java  | structures, features                      | all  | all      | [19MisterX](https://github.com/hube12/lifting)                                  |
