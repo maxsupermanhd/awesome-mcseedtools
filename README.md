@@ -45,3 +45,9 @@ Tools to obtain a seed for generatable things.
 | discord bot     | structures, biomes                        | o    | all      | [19MisterX](https://discord.gg/ANW8hu2S5D)                                      |
 | code: java      | structures, features                      | all  | all      | [lifting](https://github.com/hube12/lifting)                                    |
 | library: golang | structures, features                      | all  | all      | [go-lifting](https://github.com/maxsupermanhd/go-lifting)                       |
+
+## Writeups/docs
+
+Information that is useful or related to seed-related things
+
+ - [On Seed Finding](https://docs.google.com/document/d/1v_TM-D4CFAuQKB4K_j1ta67cPNlGXpPvXz6ekPLWhgg/edit)
